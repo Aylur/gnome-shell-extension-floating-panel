@@ -1,0 +1,8 @@
+{
+  "name": "Floating Panel",
+  "description": "Floats the panel, if there is a window nearby or maximised, it defloats.",
+  "uuid": "floating-panel@aylur",
+  "shell-version": [
+    "40", "41", "42", "43"
+  ]
+}
