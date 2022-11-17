@@ -68,6 +68,7 @@ class Extension{
         }
 
         this._update();
+        Main.panel.add_style_class_name('floating');
     }
 
     disable(){
@@ -81,6 +82,7 @@ class Extension{
         }
         this._windowSignals = null;
         this._overlap(false);
+        Main.panel.remove_style_class_name('floating');
     }
 
     _onWindowAdded(container, window){
