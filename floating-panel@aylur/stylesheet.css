@@ -25,14 +25,14 @@
 */
 
 
-#panel.floting { padding: 8px; }
-#panel.floting .panel-button{
+#panel.floating { padding: 8px; }
+#panel.floating .panel-button{
     margin-top: 8px;
     margin-bottom: 8px;
 }
-#panel.floting #panelLeft{ margin-left: 8px; }
-#panel.floting #panelRight{ margin-right: 8px; }
-#panel.floting:floating{
+#panel.floating #panelLeft{ margin-left: 8px; }
+#panel.floating #panelRight{ margin-right: 8px; }
+#panel.floating:floating{
     border-radius: 99px;
     box-shadow: inset 0 0 0 0 transparent;
     border: 8px solid transparent;
