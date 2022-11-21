@@ -12,7 +12,7 @@ I purposefully didn't write customization for this extnsion, because I recommend
 
 ---
 
-You should delete this stylesheet.css when you write your theme. Anything written here will overwrite any theme applied through gnome-tweaks.
+You should delete stylesheet.css when you write your theme. Anything written there will overwrite any theme applied through gnome-tweaks.
 
 ### IMPORTANT!
 Make sure the nonfloating and the floating styles both have the same allocated space, becuase it can and will crash your shell if they don't.
