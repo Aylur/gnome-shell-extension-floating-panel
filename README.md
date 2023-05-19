@@ -1,7 +1,7 @@
 
 # Floating Panel
 
-I purposefully didn't write customization for this extnsion, because I recommend and encourage to write your own theme.
+I purposefully didn't write customization for this extension, because I recommend and encourage to write your own theme.
 
 ## While making your theme, here is a quick guide:
 
